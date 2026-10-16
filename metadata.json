@@ -1,0 +1,6 @@
+{
+  "name": "Audio ICA Lab - Independent Component Analysis",
+  "description": "In-browser Independent Component Analysis (ICA) for audio source separation, noise robustness analysis, and audio fingerprinting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
